@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/github.com/kauyani-godza/issues"
   },
-  "homepage": "https://github.com/github.com/kauyani-godza#readme"
+  "homepage": "https://github.com/github.com/kauyani-godza#readme",
+  "engines": {
+	  "node":"12.4.0"
+  }
 }
